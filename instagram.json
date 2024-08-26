@@ -5,20 +5,20 @@
       {
         "id": 1,
         "service_name": "Instagram - seguidores",
-        "price_per_unit": 0.00120
+        "price_per_unit": 0.00100
       }
     ],
     "likes": [
       {
         "id": 3,
-        "service_name": "ID 3170 - Instagram - Me gusta - Alta calidad - Mundiales, Brasil, Latinos y USA - Max 20K 🔥",
+        "service_name": "Instagram - Me gusta",
         "price_per_unit": 0.00012
       }
     ],
     "vistas": [
       {
         "id": 4,
-        "service_name": "ID 1334 - Instagram - Vistas - Video - Reel + IGTV - Max. 50K",
+        "service_name": "Instagram - Vistas",
         "price_per_unit": 0.00005
       }
     ]
